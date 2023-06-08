@@ -1,0 +1,28 @@
+/* CSS Styles */
+.navbar {
+    padding: 10px;
+    background-color: rgb(222, 222, 59);
+
+  }
+  
+  .navbar-nav {
+    list-style: none;
+    display: flex;
+  }
+  
+  .nav-item {
+    margin-right: 10px;
+  }
+  
+  .nav-link {
+    text-decoration: none;
+    color: #333;
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  .nav-link:hover,
+  .nav-link.active {
+    background-color: burlywood;
+  }
+  

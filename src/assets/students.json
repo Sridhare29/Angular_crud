@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "studentName": "John Doe",
+      "course": ".NET",
+      "courseDuration": 6,
+      "trainingMode": "Online",
+      "locationInfo": "N/A"
+    },
+    {
+      "id": 2,
+      "studentName": "Jane Smith",
+      "course": "JAVA",
+      "courseDuration": 4,
+      "trainingMode": "Offline",
+      "locationInfo": "Venue Name"
+    },
+    {
+      "id": 3,
+      "studentName": "Mike Johnson",
+      "course": "AWS",
+      "courseDuration": 3,
+      "trainingMode": "Online",
+      "locationInfo": "N/A"
+    },
+    {
+      "id": 4,
+      "studentName": "Emily Brown",
+      "course": "Azure",
+      "courseDuration": 5,
+      "trainingMode": "Offline",
+      "locationInfo": "Venue Name"
+    }
+  ]
+
+  
